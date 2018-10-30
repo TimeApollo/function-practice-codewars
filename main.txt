@@ -1,0 +1,15 @@
+##### This is all the links to my solutions #####
+
+The XOR operator -> https://www.codewars.com/kata/reviews/56fb48d137fb7ca8d6000009/groups/5708058a3f10088e1a0007d0
+
+Offspring -> https://www.codewars.com/kata/reviews/579e76cf5460363df9000170/groups/5aeba0216e2600875d000f37
+
+You play banjo -> https://www.codewars.com/kata/reviews/54a5cd6f8e5c31733e000013/groups/54aa0099be9afb65130001bd
+
+Categorize new memeber -> https://www.codewars.com/kata/reviews/5502c9e8b3216ec63c0001ac/groups/584772f0e4022cc0870001c4
+
+Excessively Abundant Numbers -> https://www.codewars.com/kata/reviews/56a8c06305ac57e120000030/groups/5bd8c380763340d1de000aba
+
+Debug 3 functions -> https://www.codewars.com/kata/reviews/58781655a9302459150001a3/groups/5bd8c7690266dfe0cb000990
+
+Most Amicable Numbers -> https://www.codewars.com/kata/reviews/56ba383d8f12010bbf00001e/groups/5bd8c95e7633402456000b4c
